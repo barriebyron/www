@@ -22,7 +22,7 @@ The guide has its origins in the efforts of developers to understand and explain
 
 * More :ref:`api-documentation` content!
 * Helping non-writers understand what makes good documentation
-* Helping writers new to developer tools or docs-as-code understand the moving parts of new toolchains and workflows
+* Helping writers new to developer tools or docs-as-code workflows to understand these toolchains and workflows
 * High-level discussions of common tools and toolchains. Please avoid advocacy here! But thoughtful presentation of specific use cases, how you solved them, what worked well, and what didn't work so well, are most welcome. If you want to write this kind of topic, consider starting with an issue in GitHub, or contact one of the new guide editors.
 
 If you didn't find a topic you were looking for, file an `issue in GitHub <https://github.com/writethedocs/www/issues>`_.
